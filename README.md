@@ -99,4 +99,4 @@ Overall, Monitory plays a crucial role in supporting risk managmenet decisions b
 
 ( NIST SP 800-137, NIST SP 800-137A, NISTIR 8212, NISTIR 8011, NIST SP 800-53A)
 
-![Risk Management Framework](/RMF/RMF_image.jpg "Risk Management Framework")
+![Risk Management Framework](/RMF_image.jpg "Risk Management Framework")
