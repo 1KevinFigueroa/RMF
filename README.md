@@ -1,6 +1,7 @@
 # RMF - Risk Management Framework
 Detail understanding on the Purpose and Outcome for each step in Risk Management Framework (RMF)
 
+![Risk Management Framework](/RMF_image.jpg "Risk Management Framework")
 
 ### <ins>Step 1: **CATEGORIZE**<ins>
 &nbsp;&nbsp;&nbsp;<ins>PURPOSE:</ins><br>
@@ -87,4 +88,3 @@ Detail understanding on the Purpose and Outcome for each step in Risk Management
 
 ***Reference: NIST SP 800-137, NIST SP 800-137A, NISTIR 8212, NISTIR 8011, NIST SP 800-53A***
 
-![Risk Management Framework](/RMF_image.jpg "Risk Management Framework")
