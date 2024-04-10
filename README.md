@@ -3,7 +3,7 @@ Detail understanding on the Purpose and Outcome for each step in Risk Management
 
 ![Risk Management Framework](/RMF_image.jpg "Risk Management Framework")
 
-### $\color{red}{\textsf{Step 1: **CATEGORIZE**}}$
+### \textcolor{red}{Step 1: **CATEGORIZE**}
 &nbsp;&nbsp;&nbsp;<span style="color:yellow"><ins>PURPOSE:</ins></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The organization must put risk management processes and tasks in place. This will allow the organization to determine the adverse impact in respect to the loss of cofidentiality, integrity, availability of systems (CIA Triad security). This also include how information is processed, where and how information is stored, and how information is transmitted by those system.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information owner and / or system owner must idetifiy and document the type of information processesd. Is the information PII data,; is it credit card data, etc. Compling, categorizing, and documenting this information is vital in determining the risk to the organization. By assigning a security impact value ( Low, Moderate, High, Critica ), this allows detail categorize and context behind understanding the risk to categorize the different information types. Information storage and transmitted is critical element in categorization phase, as infomration at rest and when being transmitted should always be encrypted.<br>
