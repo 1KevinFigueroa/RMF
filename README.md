@@ -2,14 +2,13 @@
 Detail understanding on the Purpose and Outcome for each step in Risk Management Framework (RMF)
 
 
-### Step 1: **CATEGORIZE**
-		PURPOSE:
-			The organization must put risk management processes and tasks in place. This will allow the organization to determine the adverse impact in respect to the loss of cofidentiality, integrity, availability of systems (CIA Triad security). This also include how information is processed, where and how information is stored, and how information is transmitted by those system.  
+### <ins>Step 1: **CATEGORIZE**<ins>
+&nbsp;&nbsp;&nbsp;<ins>PURPOSE:</ins><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The organization must put risk management processes and tasks in place. This will allow the organization to determine the adverse impact in respect to the loss of cofidentiality, integrity, availability of systems (CIA Triad security). This also include how information is processed, where and how information is stored, and how information is transmitted by those system.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Information owner and / or system owner must idetifiy and document the type of information processesd. Is the information PII data,; is it credit card data, etc. Compling, categorizing, and documenting this information is vital in determining the risk to the organization. By assigning a security impact value ( Low, Moderate, High, Critica ), this allows detail categorize and context behind understanding the risk to categorize the different information types. Information storage and transmitted is critical element in categorization phase, as infomration at rest and when being transmitted should always be encrypted.<br>
 
-			Information owner and / or system owner must idetifiy and document the type of information processesd. Is the information PII data,; is it credit card data, etc. Compling, categorizing, and documenting this information is vital in determining the risk to the organization. By assigning a security impact value ( Low, Moderate, High, Critica ), this allows detail categorize and context behind understanding the risk to categorize the different information types. Information storage and transmitted is critical element in categorization phase, as infomration at rest and when being transmitted should always be encrypted.
-
-		OUTCOME:
-			The desired outcome of effectively executing on this phase should be; 1. Documentation on system characheristics. 2. Security categorization of the systems and the information residing in those system. 3. Review and approval by authorizing bodies on categorization decision. 
+&nbsp;&nbsp;&nbsp;<ins>OUTCOME:</ins><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The desired outcome of effectively executing on this phase should be; 1. Documentation on system characheristics. 2. Security categorization of the systems and the information residing in those system. 3. Review and approval by authorizing bodies on categorization decision.<br>
 
 ***Refence the following: FIPS 199 & NIST SP 800-60 Volume I and Volume II***
 
