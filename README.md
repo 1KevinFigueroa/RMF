@@ -11,7 +11,7 @@ Detail understanding on the Purpose and Outcome for each step in Risk Management
 &nbsp;&nbsp;&nbsp;<span style="color:green"><ins>OUTCOME:</ins></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The desired outcome of effectively executing on this phase should be; 1. Documentation on system characheristics. 2. Security categorization of the systems and the information residing in those system. 3. Review and approval by authorizing bodies on categorization decision.<br>
 
-***<span style="color:cyan">Refence the following: FIPS 199 & NIST SP 800-60 Volume I and Volume II</span>***
+***<code style="color : aqua">Refence the following: FIPS 199 & NIST SP 800-60 Volume I and Volume II</code>***
 
 
 ### <span style="color:red"><ins>Step 2: **SELECT**</ins></span>
