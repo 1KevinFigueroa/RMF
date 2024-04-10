@@ -11,7 +11,7 @@ Detail understanding on the Purpose and Outcome for each step in Risk Management
 &nbsp;&nbsp;&nbsp;<span style="color:green"><ins>OUTCOME:</ins></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The desired outcome of effectively executing on this phase should be; 1. Documentation on system characheristics. 2. Security categorization of the systems and the information residing in those system. 3. Review and approval by authorizing bodies on categorization decision.<br>
 
-***<code style="color : aqua">Refence the following: FIPS 199 & NIST SP 800-60 Volume I and Volume II</code>***
+***<code style="color : aqua;">Refence the following: FIPS 199 & NIST SP 800-60 Volume I and Volume II</code>***
 
 
 ### <span style="color:red"><ins>Step 2: **SELECT**</ins></span>
@@ -29,7 +29,7 @@ Detail understanding on the Purpose and Outcome for each step in Risk Management
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finally, the security and privacy plans that reflect the control selection, designation, and allocation are reviewed and approved. These plans document how the selected controls meet te security and privacy reuirements of the system, and they serve as key inputs for the authorization process. The review and approval  of thesse plans ensure that the selected controls are appropriate and the system is adequately protected against potential risks.
 
-***<span style="color:cyan">Reference the following: Security & Privacy (SP 800-53  controls & SP 800-53B control Baselines)</span>***
+***<code style="color : aqua;">Reference the following: Security & Privacy (SP 800-53  controls & SP 800-53B control Baselines)</code>***
 
 
 ### <span style="color:cyan"><ins>Step 3: **IMPLEMENT**</ins></span><br>
@@ -39,7 +39,7 @@ Detail understanding on the Purpose and Outcome for each step in Risk Management
 &nbsp;&nbsp;&nbsp;<span style="color:green"><ins>OUTCOME:</ins></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The desired outcome in this phase involves implementing the security and privacy controls specified in the security and privacy plans for the system and organization. This encompasses implementing the controls as outline in the plans, while also updating the plans to reflect the controls as they are actually implemented. Specifically, it involves implementing the safeguards and countermeansures precribed to protect the confidentiality, integrity, and availability of the system, as detailed in the secuirty and privacy plans. Concurrently, the plans are updated to capture any changes or deviations from the planned implementation, ensuring an accurate record of the “as-implemented” state of the controls.
 
-***<span style="color:cyan">Reference the following: (SP 800 - 88, SP 800-34,  SP 800-61, SP 800-128)</span>***
+***<code style="color : aqua">Reference the following: (SP 800 - 88, SP 800-34,  SP 800-61, SP 800-128)</code>***
 
 ### <span style="color:red"><ins>Step 4: **ASSESS**</ins></span><br>
 &nbsp;&nbsp;&nbsp;<span style="color:yellow"><ins>PURPOSE:</ins></span><br>
@@ -52,7 +52,7 @@ Detail understanding on the Purpose and Outcome for each step in Risk Management
 &nbsp;&nbsp;&nbsp;<span style="color:green"><ins>OUTCOME:</ins></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The desired outcome of this phase involves selecting an assessor or assessment team to evaluate the implemented security and privacy controls. Security and privacy assessment plans are developed, outlining the scope, methodology, and procedures for conducting the assessments. These assessment plans are reviewed and approved by stakeholders before actual controls assessments are conducted in accordance with the defined plans. During the assessments, the assessor or team examines the implemented controls to determine their effectiveness in meeting the security and privacy requirements. The finsings and results of the assessments are documented in security and privacy assessment reports, which identify any deficiencies or areas where the controls are not operating as intended. Based on these reports, remediation actions are taken to address the idetified deficiencies, such as reconfiguring controls, implementing additional safeguards, or revising policies and procedures. The security and privacy plans are then updated to reflect the changes made to the control implementation based on the assessments and remediation actions. Finally, a plan of action and milestones id developed outlining the steps and timelines for addressing any remaining deficiencies or vulnerabilities.
 
-***<span style="color:cyan">Reference the following: ( NIST SP 800-53A & NISTIR 8011 Automation Support for Security Control Assessments: Multiple Volumees)</span>***
+***<code style="color : aqua">Reference the following: ( NIST SP 800-53A & NISTIR 8011 Automation Support for Security Control Assessments: Multiple Volumees)</code>***
 
 
 ### <span style="color:red"><ins>Step 5: **AUTHORIZE**</ins></span><br>
@@ -85,5 +85,5 @@ Detail understanding on the Purpose and Outcome for each step in Risk Management
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The results of the continuous monitoring activites are also used to support ongoing authorizations of the system of common controls. Based on the monitoring data and analysis, the Authorizing Official can make risk-based decisions about whether to continue, modify, or revoke the authorization for the system or common controls to operate.The ongoing authorization process ensures that the organization maintains a comprehensive understanding of its risk posture and can adapt its risk management strategies as needed, by continuously monitoring and assessing the effectiveness of security and privacy controls, organizations can proactively identify and address potential vulnerbilities, ensureing that their systms and operation remain secure and compliant with relevant regulations and policies.
 
-***<span style="color:cyan">Reference: NIST SP 800-137, NIST SP 800-137A, NISTIR 8212, NISTIR 8011, NIST SP 800-53A</span>***
+***<code style="color : aqua">Reference: NIST SP 800-137, NIST SP 800-137A, NISTIR 8212, NISTIR 8011, NIST SP 800-53A</code>***
 
